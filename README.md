@@ -1,7 +1,6 @@
 # Projeto Final: Ambiente Temático no Metaverso (VR)
 
-**Aluno:** Matheus Guilherme Madureira
-**Contexto Acadêmico:** Trabalho Prático de Sistemas Móveis / Realidade Virtual e Aumentada  
+- **Aluno:** Matheus Guilherme Madureira
 
 ## 📋 Apresentação do Projeto
 
